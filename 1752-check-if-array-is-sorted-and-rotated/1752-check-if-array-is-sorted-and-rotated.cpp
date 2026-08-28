@@ -8,7 +8,7 @@ public:
 
             // Current element ko next element se compare kar rahe hain
             // Agar current element bada hai, to sorted order yahan break hua
-            if (nums[i] > nums[(i + 1) % n]) {
+            if (nums[i] > nums[(i + 1) % n]) {   // nums[(i + 1) % n]) kyunki to compare last elemrnt with first element
 
                 // Yahan order break hua, isliye count badha diya
                 count++;
