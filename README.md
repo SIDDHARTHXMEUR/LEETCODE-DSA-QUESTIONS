@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0268-missing-number) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
