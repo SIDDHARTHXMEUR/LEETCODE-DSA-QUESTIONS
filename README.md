@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0169-majority-element) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0268-missing-number) |
 ## Binary Search
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
