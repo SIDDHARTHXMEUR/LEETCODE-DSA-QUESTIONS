@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -76,5 +77,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
