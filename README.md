@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0119-pascals-triangle-ii](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SIDDHARTHXMEUR/LEETCODE-DSA-QUESTIONS/tree/master/0268-missing-number) |
